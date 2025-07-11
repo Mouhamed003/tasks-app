@@ -8,13 +8,11 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
   styleUrl: './signup.component.scss'
 })
 export class SignupComponent {
-  // name = '';
-  // email = '';
-  // password = '';
+  name = '';
+  email = '';
+  password = '';
 
-  // submit(){
-
-  // }
-
-
+  submit(){
+    
+  }
 }
